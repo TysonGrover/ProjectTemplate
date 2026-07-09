@@ -82,9 +82,7 @@
 		<Item Name="Controls" Type="Folder" URL="../Controls">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Doumentation" Type="Folder" URL="../Doumentation">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-		</Item>
+		<Item Name="Doumentation" Type="Folder"/>
 		<Item Name="Images" Type="Folder" URL="../Images">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
