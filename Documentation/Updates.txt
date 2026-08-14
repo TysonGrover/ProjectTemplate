@@ -9,4 +9,12 @@ Add the following:
 			In- file path, cluster or variant / Out-
 		close
 			In- / Out-
+		write config
+			In- / Out-
 		
+	Add data log class
+		Pondering always having a data log class because it is needed in almost every application
+		Child class of the general class
+		Methods:
+		write csv
+		write pdf
